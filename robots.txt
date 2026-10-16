@@ -44,4 +44,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://example.kz/sitemap.xml
+Sitemap: https://tokushev-pro.github.io/sitemap.xml
